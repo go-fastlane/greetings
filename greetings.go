@@ -7,3 +7,7 @@ func English() string {
 func French() string {
 	return "Bonjour le monde!"
 }
+
+func Spanish() string {
+	return "Hola Mundo"
+}
